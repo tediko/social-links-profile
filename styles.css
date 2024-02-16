@@ -73,11 +73,10 @@ body {
 
 /* SOCIALS */
 .socials {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
     list-style: none;
-}
-
-.socials-item:not(:last-of-type) {
-    margin-bottom: 16px;
 }
 
 .socials-link {
