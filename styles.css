@@ -76,7 +76,7 @@ body {
     list-style: none;
 }
 
-.socials-item:not(last-of-type) {
+.socials-item:not(:last-of-type) {
     margin-bottom: 16px;
 }
 
