@@ -103,6 +103,6 @@ body {
 /* MEDIA QUERIES */
 @media (min-width: 48em) {
     .profile-container {
-        padding: 40px 40px 30px 40px;
+        padding: 40px;
     }
 }
