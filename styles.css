@@ -84,12 +84,12 @@ body {
     display: flex;
     justify-content: center;
     width: 100%;
-    padding: 16px 0;
+    padding: 14px 0;
     background-color: var(--c-grey);
     color: var(--c-white);
     text-decoration: none;
     font-size: 0.9rem;
-    font-weight: 600;
+    font-weight: 700;
     border-radius: 6px;
     transition: background-color 250ms ease-in-out,
                 color 250ms ease-in-out;
